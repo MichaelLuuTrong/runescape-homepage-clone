@@ -1,0 +1,52 @@
+header {
+    border: 1px solid red;
+    background-color: black;
+    background-blend-mode: darken;
+}
+
+.RSlogo {
+    max-height: 20px;
+}
+
+.linkicon {
+    max-height: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.OSRSlogo {
+    max-height: 20px;
+
+}
+
+.oldschool {
+    justify-content: flex-end;
+}
+
+.textlink {
+    color: white;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid green
+}
+
+.header2 {
+    padding-top: 20px;
+    border: 2px solid cyan;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.welcome {
+    text-transform: uppercase;
+}
+
+.bigRuneScape {
+    text-transform: uppercase;
+}
